@@ -1,0 +1,11 @@
+# VSCode
+.vscode/
+.history/
+
+# PlatformIO
+.pio/
+.sconsign.lock
+
+# OS files
+.DS_Store
+Thumbs.db
